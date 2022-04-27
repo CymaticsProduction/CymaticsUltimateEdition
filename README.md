@@ -19,7 +19,7 @@
 * Relight Scene technology improvement.
 * Improvements to ML Cache.
 * Third-party Plugin Implementation (PC users).
-![alt-текст] (https://wampi.ru/image/RuvxHJl)
+
 ## ⚡️Cymanics Production 4.3:
 
 * Support for two new Crop Aspect Ratios: 21:9 and 9:21. These are well suited for extra wide-screen computer displays, and digital cinema uses.
