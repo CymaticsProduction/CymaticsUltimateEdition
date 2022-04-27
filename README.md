@@ -7,7 +7,7 @@
 * RAM - 8 GB or more
 * Disk space - 10 GB free space
 
-![alt-текст](https://wampi.ru/image/RuvxGCq")
+![alt-текст](https://i.ytimg.com/vi/xTbKWPTj2V8/maxresdefault.jpg")
 
 ## Cymanics Production's revolutionary tools and AI technologies give superpowers for creative photo editing.
 
