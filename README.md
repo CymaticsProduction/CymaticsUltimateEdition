@@ -1,5 +1,5 @@
  Closed version for promoters.
-### 💻 Only for Windows 7/8/8.1/10
+### 💻 Only for Windows 7/8/8.1/10/11
 #### Windows Tech Specs
 * Graphics - Open GL 3.3 or later compatible
 * Processor - Intel Core i3 or better
